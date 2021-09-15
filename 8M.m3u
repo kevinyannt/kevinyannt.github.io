@@ -242,9 +242,6 @@ http://124.232.231.246:6610/000000001001/201500000241/index.m3u8?IASHttpSessionI
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="2M源",广西卫视
 http://live-cdn.gxxw.com/tv/gxtv/index.m3u8
 
-#EXTINF:-1 tvg-id="2060" tvg-name="峨眉电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="蜀小果4M源",峨眉电影
-http://60.255.49.202/live/emdygqH265_4000.m3u8
-
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png.png" group-title="台湾4M",中视
 rtmp://161.202.204.248:1935/sat/tv091
 
@@ -257,7 +254,7 @@ rtmp://161.202.204.248:1935/sat/tv111
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾4M",民视
 rtmp://161.202.204.248:1935/sat/tv051
 
-#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾4M",纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾4M",公视
 rtmp://161.202.204.248:1935/sat/tv521
 
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾4M",壹新闻 
@@ -311,18 +308,27 @@ https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港2M",香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
 
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4M",CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube4M",TVBS新闻台  
-https://www.youtube.com/watch?v=V0WxUakDV7M
+#EXTINF:-1 tvg-id="1873" tvg-name="北京文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京移动8M",北京文艺
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
 
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="youtube4M",TVBS
-https://www.youtube.com/watch?v=hP6_jfCFxyQ 
+#EXTINF:-1 tvg-id="1875" tvg-name="北京影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京移动8M",北京影视
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
 
-#EXTINF:-1 tvg-id="7177" tvg-name="华视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="youtube4M",华视新闻
-https://www.youtube.com/watch?v=yUTy1U1wTwE
+#EXTINF:-1 tvg-id="1880" tvg-name="北京新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京移动8M",北京新闻
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
 
-#EXTINF:-1 tvg-id="7178" tvg-name="寰宇新聞台" tvg-logo="" group-title="youtube4M",寰宇新聞台
-https://www.youtube.com/watch?v=PrgJTR-siKs
+#EXTINF:-1 tvg-id="1876" tvg-name="北京财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京移动8M",北京财经
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+
+#EXTINF:-1 tvg-id="1878" tvg-name="北京生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="北京移动8M",北京生活
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+
+#EXTINF:-1 tvg-id="1879" tvg-name="北京青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="北京移动8M",北京青年
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+
 
 
 
