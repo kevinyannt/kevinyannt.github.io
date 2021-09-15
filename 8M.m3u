@@ -312,6 +312,17 @@ https://cdn.hkdtmb.com/hls/85/index.m3u8
 https://cdn.hkdtmb.com/hls/77/index.m3u8
 
 
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube4M",TVBS新闻台  
+https://www.youtube.com/watch?v=V0WxUakDV7M
+
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="youtube4M",TVBS
+https://www.youtube.com/watch?v=hP6_jfCFxyQ 
+
+#EXTINF:-1 tvg-id="7177" tvg-name="华视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="youtube4M",华视新闻
+https://www.youtube.com/watch?v=yUTy1U1wTwE
+
+#EXTINF:-1 tvg-id="7178" tvg-name="寰宇新聞台" tvg-logo="" group-title="youtube4M",寰宇新聞台
+https://www.youtube.com/watch?v=PrgJTR-siKs
 
 
 
