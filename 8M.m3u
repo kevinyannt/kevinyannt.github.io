@@ -53,7 +53,7 @@ http://183.207.248.71/cntv/live1/CCTV-17超高清/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视4M",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="贵州移动8M",中国教育-1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="贵州移动8M",中国教育-1
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江苏移动8M",安徽卫视
@@ -314,7 +314,7 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港2M",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png.png" group-title="香港2M",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港2M",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港2M",J2
