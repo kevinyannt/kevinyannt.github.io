@@ -287,11 +287,8 @@ http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="youtube4M",中视新闻 
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="" group-title="youtube4M",中天新闻台
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="https://hataiwan.com.my/cms/wp-content/uploads/2020/11/908.png" group-title="youtube4M",中天新闻台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-
-#EXTINF:-1 tvg-id="7177" tvg-name="华视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾185测试4M",华视新闻
-http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="hkdtmb2M",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
