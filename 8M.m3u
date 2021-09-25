@@ -343,13 +343,14 @@ http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="youtube4M",TVBS 
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 
+#EXTINF:-1 tvg-id="7177" tvg-name="华视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾185测试4M",华视新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube4M",TVBS新闻台  
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632571264/ei/ILtOYe6SC5WRkwau9qXoDA/ip/205.250.206.210/id/V0WxUakDV7M.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVXSD53e6wSSf6M2DOFCrfaLJ8xm3fxgyEDLbkFr0Z_ICIF-w0nPc4IMmErlFWaDoOUrU2LXnxV8v9V-7ISvQlOFx/file/index.m3u8
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 
-
-
-
-
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="港澳台",年代新闻台
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 
 
 
