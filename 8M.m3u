@@ -290,6 +290,21 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="https://hataiwan.com.my/cms/wp-content/uploads/2020/11/908.png" group-title="youtube4M",中天新闻台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="youtube4M",TVBS 
+http://xiaojun.cyou/code/?code=iptv800&id=95
+
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻台
+http://xiaojun.cyou/code/?code=iptv800&id=62
+
+#EXTINF:-1 tvg-id="7177" tvg-name="华视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾185测试4M",华视新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="youtube",TVBS新闻台  
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="港澳台",年代新闻台
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="hkdtmb2M",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="409" tvg-name="ViuTVsix" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="hkdtmb2M",ViuTVsix
@@ -337,20 +352,7 @@ http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="港澳台",纬来戏剧
 http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="youtube4M",TVBS 
-http://xiaojun.cyou/code/?code=iptv800&id=95
 
-#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻台
-http://xiaojun.cyou/code/?code=iptv800&id=62
-
-#EXTINF:-1 tvg-id="7177" tvg-name="华视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾185测试4M",华视新闻
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="youtube",TVBS新闻台  
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="港澳台",年代新闻台
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 
 
 
