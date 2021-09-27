@@ -125,8 +125,11 @@ http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="江西移动8M",旅游卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="2M源",广西卫视
-http://live-cdn.gxxw.com/tv/gxtv/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南玉溪GITV4M",云南卫视
+http://39.130.202.115:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="云南玉溪GITV4M",广西卫视
+http://39.130.202.115:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="贵州移动8M",深圳卫视
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls
