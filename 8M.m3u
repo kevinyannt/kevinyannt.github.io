@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动8M", CCTV1
 http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ
 
@@ -355,8 +355,7 @@ http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="港澳台",纬来戏剧
 http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6046" tvg-name="八大综合"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合
-http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
+
 
 #EXTINF:-1 tvg-id="6157" tvg-name="靖天日本"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC.png" group-title="港澳台",靖天日本
 http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free
@@ -364,3 +363,44 @@ http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
 http://sytv.xtvants.fun/mytv.php?id=wlrb&token=free&user=free
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" tvg-id="6050" tvg-name="东森综合台" group-title="台湾",东森综合台
+http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-id="6058" tvg-name="东森戏剧台" group-title="台湾",东森戏剧台
+http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" tvg-id="7138" tvg-name="TVBS精采台" group-title="台湾",TVBS精采台
+http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天综合台" group-title="台湾",中天综合台
+http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" tvg-id="6133" tvg-name="八大娱乐台" group-title="台湾",八大娱乐台
+http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" tvg-id="6045" tvg-name="八大第一台" group-title="台湾",八大第一台
+http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" tvg-id="6046" tvg-name="八大综合台" group-title="台湾",八大综合台
+http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" tvg-id="6059" tvg-name="八大戏剧台" group-title="台湾",八大戏剧台
+http://sytv.xtvants.fun/mytv.php?id=bdxj&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾",三立综合台
+http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" tvg-id="7221" tvg-name="三立戏剧" group-title="台湾",三立戏剧台
+http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="台湾",JET综合台
+http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
+
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC.png" group-title="港澳台",靖天日本
+http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TOPTVHD.png" tvg-id="6062" tvg-name="高点综合台" group-title="台湾",高点电视台
+http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TOPTV2.png" tvg-id="6130" tvg-name="高点育乐台" group-title="台湾",高点育乐台
+http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
