@@ -355,10 +355,10 @@ http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="港澳台",纬来戏剧
 http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6061" tvg-name="八大综合"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合
 http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
 
-#EXTINF:-1 tvg-id="6061" tvg-name="靖天日本"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC.png" group-title="港澳台",靖天日本
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC.png" group-title="港澳台",靖天日本
 http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free
 
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
